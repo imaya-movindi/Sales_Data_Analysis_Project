@@ -1,2 +1,2 @@
-# Sales_Data-_Analysis_Project
+# Sales_Data_Analysis_Project
 This project focuses on analyzing sales data using Microsoft Excel. The dataset was cleaned by removing duplicates and formatting inconsistent values to ensure accuracy. Pivot Tables were used to summarize and explore sales performance across different categories. Charts and visualizations were created to identify monthly sales trends and top-performing products. The analysis helped in understanding overall sales patterns and business performance. This project demonstrates skills in data cleaning, analysis, and visualization using Excel tools.
